@@ -1,1 +1,2 @@
-helloworld
+Goodbye, cruel world
+Hello games!
